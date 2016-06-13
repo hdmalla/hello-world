@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi !!
+Its me Himal Dhoj Malla, a computer engineer from Nepal trying to use github.
+Thank You !!
